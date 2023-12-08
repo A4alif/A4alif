@@ -43,9 +43,10 @@
 <div style="width: 100%; height: 1px; background-color: #6c757d; margin: 20px 0px;"></div>
 <br>
 <br>
-<br>
-<br>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br>
+<br>
 <div style="width: 100%; height: 1px; background-color: #212529; margin: 20px 0px;"></div>
 
 <div align="center" >
