@@ -5,7 +5,7 @@
 
 <div style="width: 100%; height: 1px; background-color: #6c757d; margin: 20px 0px;"></div>
 
-<br />
+<br>
 
 <div align="center">
 
@@ -13,11 +13,11 @@
 
 </div>
 
-<br />
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<div align="left" style="margin-top: 20px;">
+<div align="left">
 
 👨‍💻 Passionate about clean code, user-centric design,
 
@@ -28,7 +28,7 @@
 💬 Ask me about **React, Node Js, Firebase, MongoDB**
 
  </div>
- <div align="left" style="margin-top: 30px;"> 
+ <div align="left" > 
   <a href="mailto:alifhasanshah.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -36,19 +36,22 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-<br />
-<br />
-<br />
+<br>
+<br>
+<br>
+<br>
 <div style="width: 100%; height: 1px; background-color: #6c757d; margin: 20px 0px;"></div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div style="width: 100%; height: 1px; background-color: #212529; margin: 20px 0px;"></div>
 
-<div align="center" style="margin-top: 50px;">
+<div align="center" >
     <p align="center">
         <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript,react,nextjs" />
     </p>
+    <br>
+    <br>
     <p align="center">
-        <img style="margin-top: 30px;" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,vscode,figma,postman" />
+        <img  src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,vscode,figma,postman" />
     </p>
 </div>
 
