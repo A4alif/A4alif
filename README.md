@@ -23,7 +23,7 @@
 
 📚 Currently expanding my knowledge in full-stack development
 
-🌱 I’m currently learning **Redux ,NEXT JS**
+🌱 I’m currently learning **Blockchain**
 
 💬 Ask me about **React, Node Js, Firebase, MongoDB**
 
